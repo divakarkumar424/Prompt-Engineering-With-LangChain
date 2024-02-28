@@ -13,7 +13,7 @@ Software And Tools Requirements
 1. [Github Account](https://github.com)
 2. [Langchain🦜](https://www.langchain.com/)
 3. [OpenAI](https://openai.com/)
-4. [jupyter Notebook](https://github.com/)
+4. [jupyter Notebook](https://jupyter.org/)
 5. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Technology and tools wise this project covers,
